@@ -1,9 +1,14 @@
 # 🌐 AIoT Workshop Project — October 2025  
 
 ### Combining Artificial Intelligence (AI) and Internet of Things (IoT)  
-
+<img src="images/aiot.jpg" alt="AIoT" width="60%">
 This repository showcases our works during a **3-day AIoT (Artificial Intelligence of Things)** workshop.  
 The workshop focused on how **AI and IoT** merge to create **intelligent, connected systems** — covering everything from **hardware programming** and **server setup** to **AI agent integration** and **decision automation** using **LLMs (Large Language Models)**.
+
+---
+
+## 📅 Project Date  
+**October 2025**
 
 ---
 
@@ -27,12 +32,9 @@ The workshop focused on how **AI and IoT** merge to create **intelligent, connec
 - Built the **final AIoT project**: a complete system connecting ESP32 → Flask server → AI Agent → Actuators.  
 
 ---
-
-## 📅 Project Date  
-**October 2025**
-
----
 ## 🧩 Final Project Description  
+
+<img src="images/diagram.png" alt="Diagram" width="80%">
 
 **System Flow:**  
 1. The **ESP32** collects live sensor data (temperature, light, motion).  
