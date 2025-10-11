@@ -46,7 +46,7 @@ The workshop focused on how **AI and IoT** merge to create **intelligent, connec
 4. The agent triggers appropriate actuator commands through the `/actuator` API (e.g., turn on fan, light).  
 5. All results are logged using a **Logger** for performance review and continuous improvement.  
 
-✅ This pipeline demonstrates a **real-time AIoT system**, transforming **data → insights → intelligent actions**.
+✅ This pipeline demonstrates an **AIoT system**, transforming **data → insights → intelligent actions**.
 
 ---
 
@@ -81,4 +81,10 @@ This project embodies the power of **AIoT** — where connected devices become t
 - **Plan** and **Decide** with AI, and  
 - **Act** autonomously to improve outcomes.  
 
-> The future of technology lies at the intersection of AI and IoT — and this project is one small step toward that future.  
+> The future of technology lies at the intersection of AI and IoT — and this project is one small step toward that future.
+
+
+## 📄 License
+This project is licensed under the **MIT License** .  
+You are free to use, modify, and distribute this code for personal or commercial purposes.
+
