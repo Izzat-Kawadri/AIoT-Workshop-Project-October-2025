@@ -57,20 +57,29 @@ The workshop focused on how **AI and IoT** merge to create **intelligent, connec
 - **Wi-Fi Communication** — For seamless device-server connectivity  
 
 ---
+## 👨‍💻 Team Credit
 
-## 🙏 Acknowledgements  
+**Final Project Contributors:**  
+
+- **Abdulhadi Albitar** — [LinkedIn](https://www.linkedin.com/in/abdulhadi-albitar-020893241/)
+- **Rosah Alnammour** — [LinkedIn](https://www.linkedin.com/in/rosah-alnammour/)
+- **Mohamad Izzat Kawadri** — [LinkedIn](https://www.linkedin.com/in/izzat-kawadri)  
+
+---
+
+## 👩‍🏫 Trainer Credit
+
+Special thanks to our amazing trainers for their guidance throughout the AIoT workshop:
+
+- **Abdulqader Alsheht** — [LinkedIn](https://www.linkedin.com/in/abdulqader-rabee-alsheht/)
+- **Ali Alammori** — [LinkedIn](https://www.linkedin.com/in/ali-alammori-18b549b2/) 
+
+---
+## 🏫 Acknowledgements  
 
 A huge thanks to:  
 - **[Expentech](https://www.linkedin.com/company/expentech-solution/)** — for organizing this workshop and sharing their AIoT expertise with us (IoT enthusiast trainees).  
 - **[Digit Innovation Hub](https://www.linkedin.com/company/digit-innovation-hub)** — for hosting such inspiring and innovative training sessions.  
-
----
-
-## 👥 Team Credits  
-
-**Final Project Contributors:**  
-- **Mohamad Izzat Kawadri** — [LinkedIn](https://www.linkedin.com/in/izzat-kawadri)  
-- **Rosah Alnammour** — [LinkedIn](https://www.linkedin.com/in/rosah-alnammour/)  
 
 ---
 
