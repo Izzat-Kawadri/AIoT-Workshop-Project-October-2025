@@ -79,7 +79,8 @@ Special thanks to our amazing trainers for their guidance throughout the AIoT wo
 
 A huge thanks to:  
 - **[Expentech](https://www.linkedin.com/company/expentech-solution/)** — for organizing this workshop and sharing their AIoT expertise with us (IoT enthusiast trainees).  
-- **[Digit Innovation Hub](https://www.linkedin.com/company/digit-innovation-hub)** — for hosting such inspiring and innovative training sessions.  
+- **[Digit Innovation Hub](https://www.linkedin.com/company/digit-innovation-hub)** — for hosting such inspiring and innovative training sessions.
+- **[ISCEIT](https://isceit.sy/)** — for their support .
 
 ---
 
